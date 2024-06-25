@@ -1,0 +1,13 @@
+@import '~/assets/variables.scss';
+
+body {
+    color: $text-primary;
+  }
+  
+  .text-secondary {
+    color: $text-secondary;
+  }
+  
+  .text-on-dark {
+    color: $text-on-dark;
+  }
